@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Cybersecurity Portfolio</h1>
+        <p>Welcome to my portfolio !</p>
+    </header>
+    <main>
+        <section>
+            <h2>About me</h2>
+            <p>My name is George and I'm an entry level cybersecurity specialist.</p>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>-Network security basics</li>
+                <li>-Vulnerability analysis</li>
+                <li>-Problem-solving skills</li>
+                <li>-Quick learner</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Values</h2>
+            <ul>
+                <li>-Security and privacy</li>
+                <li>-Responsibility</li>
+                <li>-Teamwork</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>COntact me: heorhii.solopov@gmail.com</p>
+    </footer>
+</body>
+</html>
